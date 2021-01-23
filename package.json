@@ -1,0 +1,20 @@
+{
+  "name": "dyapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "swiper": "^6.4.5",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-router": "^3.2.0",
+    "vue-video-player": "^5.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

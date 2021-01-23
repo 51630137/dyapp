@@ -1,0 +1,121 @@
+{
+  "id": "2301824",
+  "name": "ydapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15546302",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "18522222",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1159912",
+      "name": "音符",
+      "font_class": "yinfu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1311625",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1810268",
+      "name": "音符",
+      "font_class": "icon-test",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "3816788",
+      "name": "功能",
+      "font_class": "gongneng",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13607458",
+      "name": "伞",
+      "font_class": "san",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "594371",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "6364167",
+      "name": "二维码",
+      "font_class": "ico",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "7008958",
+      "name": "live",
+      "font_class": "live",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "7949503",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "12103025",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "14411143",
+      "name": "直播",
+      "font_class": "zhiboxianxing",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "6185482",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1190909",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    }
+  ]
+}
